@@ -13,7 +13,6 @@ Attualmente insegno come **Teacher Assistant** da Boolean, dove aiuto gli studen
 ### Backend (dove la magia accade)
 - **PHP** - Sì, uso ancora PHP nel 2024 e no, non mi vergogno
 - **Laravel** - Per quando voglio sentirmi un vero artigiano
-- **SlimPHP** - Perché a volte Laravel è troppo
 - **WordPress** - *sospiro* Lo so, lo so...
 - **Magento** - Per chi ama vivere pericolosamente
 
@@ -37,16 +36,6 @@ Attualmente insegno come **Teacher Assistant** da Boolean, dove aiuto gli studen
 - **Bash/Zsh** - Perché cliccare è per i deboli
 - **Python** - Per quando Bash diventa illeggibile (tipo alla riga 3)
 - **Perl** - Sì, esiste ancora e sì, l'ho usato
-
-## Il mio percorso
-
-**2007-2015**: Laurea in Informatica all'Università di Pisa (sì, ci ho messo un po', ma la qualità richiede tempo!)
-
-**2014-2015**: Sistemista Linux @ Libersoft SRL - Dove ho imparato che i server crashano sempre alle 3 di notte
-
-**2016-2024**: Full Stack Developer @ HT&T Consulting SRL - 8 anni di WordPress, Magento, e server AWS che non dormivano mai
-
-**2024-Presente**: Teacher Assistant @ Boolean - Insegno a futuri developer come debuggare... e a usare Google correttamente
 
 ## Quando non codifico
 
