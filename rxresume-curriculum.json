@@ -1,0 +1,396 @@
+{
+  "basics": {
+    "name": "Samuel Panicucci",
+    "headline": "Full Stack Web Developer",
+    "email": "samuel.panicucci@gmail.com",
+    "phone": "+39 3911697761",
+    "location": "Pontedera",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "ilrypj759ip62iy3ia2f4wfn",
+        "icon": "envelope",
+        "name": "PEC",
+        "value": "panicucci@postecert.it"
+      }
+    ],
+    "picture": {
+      "url": "https://storage.rxresu.me/cmden2p4631fwrxdf18zs89ia/pictures/rppdv9mbsb66mcyzrsnvmj4q.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Full Stack Developer con solida esperienza in ambienti Linux, appassionato di tecnologie web, sistemistica e sviluppo backend/frontend. Predilige PHP (Laravel, SlimPHP), JS (Vue, React, AlpineJS) e sistemi su AWS. Curioso e creativo, amo sperimentare nuovi strumenti e approcci.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Educazione",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "qp6gdzra9cuqvp52t1ubzzjq",
+          "visible": true,
+          "institution": "Liceo Scientifico XXV Aprile, Pontedera",
+          "studyType": "Diploma",
+          "area": "Scientifica",
+          "score": "",
+          "date": "2003-09 - 2007-06",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "gyddghuexbyfe2msmd2ra39q",
+          "visible": true,
+          "institution": "Università degli Studi di Pisa",
+          "studyType": "Laurea Triennale",
+          "area": "Informatica",
+          "score": "",
+          "date": "2007-10 - 2015-03",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Esperienze",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "kfz4bxnfcpzubtvwh6ervz96",
+          "visible": true,
+          "company": "Libersoft SRL",
+          "position": "Sistemista Linux",
+          "location": "Navacchio, Italia",
+          "date": "2014-01 - 2015-12",
+          "summary": "<p>Gestione sistemi Linux e server di posta. Realizzazione sistemi di invio massivo di posta in Perl.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.libersoft.it"
+          }
+        },
+        {
+          "id": "oug61jctwtdxvq6zr4qih9db",
+          "visible": true,
+          "company": "HT&T Consulting SRL",
+          "position": "Full Stack Developer",
+          "location": "Pontedera, Italia",
+          "date": "2016-04 - 2024-03",
+          "summary": "<p>Sviluppo siti Web con WordPress e Magento. Gestione server Ubuntu su AWS. Montaggio e aggiornamento CMS. Sperimentazione framework Laravel e SlimPHP. Sviluppo frontend con JavaScript, jQuery, Vue, React, AlpineJS.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.htt.it/"
+          }
+        },
+        {
+          "id": "iidj2aszowmggudvgtgkgley",
+          "visible": true,
+          "company": "Boolean",
+          "position": "Teacher Assistant",
+          "location": "Remoto",
+          "date": "Marzo 2024 - Presente",
+          "summary": "<p>Supporto pomeridiano agli studenti del corso in Full Stack Developer.</p><p>Nel corso vengono spiegate le tecnologie:</p><ul><li><p>Frontend (React/Vue)</p></li><li><p>Backend (NodeJS/Laravel)</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://boolean.careers/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interessi",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "obsrt4ugdaskrez6w4vhzkoz",
+          "visible": true,
+          "name": "Fotografia",
+          "keywords": []
+        },
+        {
+          "id": "iu8wh08i85m5ctt028girjen",
+          "visible": true,
+          "name": "Arti Marziali",
+          "keywords": []
+        },
+        {
+          "id": "kh1xds4fkqhp2b1087jub9r0",
+          "visible": true,
+          "name": "Balli Latino Americani",
+          "keywords": []
+        },
+        {
+          "id": "sff8c4ky2lv9nbm057cblox7",
+          "visible": true,
+          "name": "Giochi da Tavolo",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Lingue Conosciute",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "yrbxahetcrs42bl2ixlkalf1",
+          "visible": true,
+          "name": "Italiano",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "mdaag5v25lgwqox6cfnn75vg",
+          "visible": true,
+          "name": "Inglese",
+          "description": "",
+          "level": 3
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profili",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "g1arncrac1ebuahaspse7rgh",
+          "visible": true,
+          "network": "Github",
+          "username": "Samuel88",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/Samuel88"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "g4kwsv1zum5lp4u2kjj6inv4",
+          "visible": true,
+          "name": "Sistemi Operativi",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "Windows",
+            "Ubuntu",
+            "Debian",
+            "Fedora",
+            "Arch"
+          ]
+        },
+        {
+          "id": "cihu9xw2nbm0gybmtvd4axtc",
+          "visible": true,
+          "name": "Linguaggi di Scripting",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "Bash",
+            "Zsh",
+            "Python",
+            "Perl"
+          ]
+        },
+        {
+          "id": "pnjh43kbghy5qzubw3mulo75",
+          "visible": true,
+          "name": "Backend Development",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "PHP",
+            "Laravel",
+            "SlimPHP",
+            "Magento",
+            "Wordpress"
+          ]
+        },
+        {
+          "id": "w02vmu86cvnzll2imlnsv5bd",
+          "visible": true,
+          "name": "Frontend Development",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "HTML",
+            "CSS",
+            "Sass",
+            "Less",
+            "Javascript",
+            "React",
+            "Vue",
+            "AlpineJs"
+          ]
+        },
+        {
+          "id": "ksvdfbutqer59sjp5x9ld60s",
+          "visible": true,
+          "name": "Database",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "MySQL",
+            "MariaDB",
+            "SQLite"
+          ]
+        }
+      ]
+    },
+    "custom": {
+      "f47nzfryvedqkm7kivph1qst": {
+        "name": "Presentazione",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "f47nzfryvedqkm7kivph1qst",
+        "items": []
+      }
+    }
+  },
+  "metadata": {
+    "template": "pikachu",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "education",
+          "experience",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.f47nzfryvedqkm7kivph1qst"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "Lato",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
